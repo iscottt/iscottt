@@ -59,4 +59,4 @@
 
 **Github Stats ✨**
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=iscottt&hide_title=true&hide_border=true&hide=contribs&bg_color=0,69FF97,00E4FF&color=fff&count_private=true&show_icons=true&include_all_commits=true&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iscottt&hide_title=true&hide_border=true&layout=compact&bg_color=0,00E4FF,69FF97&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=iscottt&hide_title=true&hide=contribs&count_private=true&show_icons=true&include_all_commits=true&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iscottt&hide_title=true&layout=compact&locale=cn" />
