@@ -5,7 +5,7 @@
 - 💬 微信：iScottt163
 - 🤔 博客：<a href="https://blog.scott-studio.cn" target="_blank">个人博客『 blog.scott-studio.cn 』</a>
 - 🌱 干货：公众号『 iScott 』
-- 🗳️ vscode配置：https://vscode.dev/profile/github/e65b02c8559b250f10af5cd0deaa5e2c
+- 🗳️ vscode配置：https://vscode.dev/profile/github/dae70f3a3ed5883447f9c067ccb9a178
 - 👭 未完待续...
 
 <!--
