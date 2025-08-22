@@ -2,7 +2,7 @@
 
 - 🐧 不知名前端攻城狮
 - 🐶 网站：<a href="https://scott-studio.cn" target="_blank">个人网站『 Scott Studio 』</a>
-- 💬 微信：iScottt163
+- 💬 QQ：2406177615
 - 🤔 博客：<a href="https://blog.scott-studio.cn" target="_blank">个人博客『 blog.scott-studio.cn 』</a>
 - 👭 未完待续...
 
