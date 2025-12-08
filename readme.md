@@ -4,6 +4,7 @@
 - 🐶 网站：<a href="https://scott-studio.cn" target="_blank">个人网站『 Scott Studio 』</a>
 - 💬 QQ：2406177615
 - 🤔 博客：<a href="https://blog.scott-studio.cn" target="_blank">个人博客『 blog.scott-studio.cn 』</a>
+- 👀 vscode配置：https://vscode.dev/profile/github/1373d128bd354f49944542f6d485bae1
 - 👭 未完待续...
 
 <!--
